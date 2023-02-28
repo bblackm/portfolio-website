@@ -15,8 +15,11 @@ Personal portfolio website
     - [ ] Update Education information
     - [ ] Update Experience information
 - [ ] Portfolio page
+    - [ ] Change page name to Projects
     - [ ] Add some project
 - [ ] Blog page
     - [ ] possibly remove
 - [ ] Contact page
     - [ ] possibly remove
+- [ ] Miscellaneuos
+    - [ ] Remove unneeded images
