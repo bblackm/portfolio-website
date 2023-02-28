@@ -5,21 +5,26 @@ Personal portfolio website
 
 ## To-Do
 - [ ] Main info box
-    - [ ] Replace avatar with personal photo
+    - [x] Replace avatar with personal photo
     - [ ] Replace Facebook icon with kaggle icon
-    - [ ] Seet if we can make email address fit better
+    - [ ] See if we can make email address fit better
 - [ ] About Me page
     - [ ] Add about me information
     - [ ] add information about current work if possible
 - [ ] Resume page
-    - [ ] Update Education information
-    - [ ] Update Experience information
+    - [x] Update Education information
+    - [x] Update Experience information
+    - [ ] Update Skills
 - [ ] Portfolio page
     - [ ] Change page name to Projects
-    - [ ] Add some project
+    - [ ] Add some projects
 - [ ] Blog page
     - [ ] possibly remove
 - [ ] Contact page
     - [ ] possibly remove
 - [ ] Miscellaneuos
-    - [ ] Remove unneeded images
+    - [x] Remove unneeded avatar images
+    - [x] Remove unneeded client images
+    - [ ] Remove unneeded project images
+    - [ ] Remove unneeded icon images
+    - [ ] Remove unneeded blog images
