@@ -12,12 +12,13 @@ Personal portfolio website
     - [ ] Add about me information
     - [ ] add information about current work if possible
 - [ ] Resume page
-    - [x] Update Education information
-    - [x] Update Experience information
-    - [ ] Update Skills
+    - [x] Update Education information / icon
+    - [x] Update Experience information / icon
+    - [ ] Change Skills
 - [ ] Portfolio page
     - [ ] Change page name to Projects
-    - [ ] Add some projects
+    - [ ] Add Capstone Project
+    - [ ] new projects
 - [ ] Blog page
     - [ ] possibly remove
 - [ ] Contact page
