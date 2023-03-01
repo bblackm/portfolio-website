@@ -6,7 +6,7 @@ Personal portfolio website
 ## To-Do
 - [ ] Main info box
     - [x] Replace avatar with personal photo
-    - [ ] Replace Facebook icon with kaggle icon
+    - [x] Replace Facebook icon with kaggle icon
     - [ ] See if we can make email address fit better
 - [ ] About Me page
     - [ ] Add about me information
