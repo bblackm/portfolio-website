@@ -12,9 +12,10 @@ Personal portfolio website
     - [ ] Add about me information
     - [ ] add information about current work if possible
 - [ ] Resume page
+    - [ ] Add button for downloadable resume
     - [x] Update Education information / icon
     - [x] Update Experience information / icon
-    - [ ] Change Skills
+    - [x] Change Skills
 - [ ] Portfolio page
     - [ ] Change page name to Projects
     - [ ] Add Capstone Project
