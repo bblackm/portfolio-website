@@ -21,12 +21,15 @@ Personal portfolio website
     - [ ] Add Capstone Project
     - [ ] new projects
 - [ ] Blog page
-    - [ ] possibly remove
+    - [ ] Hide Blog section
+    - [ ] Write up some stuff maybe
 - [ ] Contact page
-    - [ ] possibly remove
+    - [x] Remove map
+    - [x] Remove contact form
+    - [ ] 
 - [ ] Miscellaneuos
     - [x] Remove unneeded avatar images
     - [x] Remove unneeded client images
-    - [ ] Remove unneeded project images
+    - [x] Remove unneeded project images
     - [ ] Remove unneeded icon images
     - [ ] Remove unneeded blog images
