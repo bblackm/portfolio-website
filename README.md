@@ -10,7 +10,7 @@ Personal portfolio website
     - [ ] See if we can make email address fit better
 - [ ] About Me page
     - [x] Add about me information
-    - [ ] add information about current work / interests if possible
+    - [x] add information about current work / interests if possible
 - [ ] Resume page
     - [ ] Add button for downloadable resume
     - [x] Update Education information / icon
