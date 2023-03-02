@@ -9,8 +9,8 @@ Personal portfolio website
     - [x] Replace Facebook icon with kaggle icon
     - [ ] See if we can make email address fit better
 - [ ] About Me page
-    - [ ] Add about me information
-    - [ ] add information about current work if possible
+    - [x] Add about me information
+    - [ ] add information about current work / interests if possible
 - [ ] Resume page
     - [ ] Add button for downloadable resume
     - [x] Update Education information / icon
