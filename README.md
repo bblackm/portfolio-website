@@ -24,9 +24,7 @@ Personal portfolio website
     - [ ] Hide Blog section
     - [ ] Write up some stuff maybe
 - [ ] Contact page
-    - [x] Remove map
-    - [x] Remove contact form
-    - [ ] 
+    - [ ] Remove Page
 - [ ] Miscellaneuos
     - [x] Remove unneeded avatar images
     - [x] Remove unneeded client images
