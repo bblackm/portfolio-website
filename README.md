@@ -23,7 +23,7 @@ Personal portfolio website
 - [ ] Blog page
     - [ ] possibly remove
 - [ ] Contact page
-    - [ ] possibly remove
+    - [ ] Remove Page
 - [ ] Miscellaneuos
     - [x] Remove unneeded avatar images
     - [x] Remove unneeded client images
